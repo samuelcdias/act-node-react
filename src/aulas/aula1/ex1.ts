@@ -11,4 +11,3 @@
  */
 var marcio = new String('marcio');
 export default marcio;
-

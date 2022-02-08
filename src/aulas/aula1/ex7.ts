@@ -5,6 +5,6 @@
  * Faça a declaração da função.
  * Troque "{}" pelo nome dado a função
  */
-function maior(a,b){if:a>b?a?b}
+function maior(a,b){return a>b?a:b};
 
-export default {maior};
+export default maior(1,2);

@@ -9,5 +9,5 @@
  * Troque "{}" pelo nome dado a variável
  *
  */
-var idade = 36;
+var idade =  36;
 export default idade;

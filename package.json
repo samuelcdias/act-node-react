@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Curso de introducao ao javascript",
   "main": "index.js",
-  "author": "Samuel Cardoso",
+  "author": "Márcio",
   "license": "MIT",
   "private": true,
   "devDependencies": {

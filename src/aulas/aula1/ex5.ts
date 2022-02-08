@@ -9,5 +9,5 @@
  * Troque "{}" pelo nome dado a variável
  *
  */
-var nula = null ;
-export default {nula};
+var varnula = null ;
+export default {varnula};

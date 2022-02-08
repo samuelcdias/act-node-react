@@ -9,6 +9,6 @@
  * Troque "{}" pelo nome dado a variável
  *
  */
-var naodefinida;
+let naodefinida;
 export default naodefinida;
 
