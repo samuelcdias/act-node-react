@@ -9,5 +9,6 @@
  * Troque "{}" pelo nome dado a variável
  *
  */
+var marcio = new String('marcio');
+export default marcio;
 
-export default {};

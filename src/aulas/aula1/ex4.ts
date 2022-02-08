@@ -9,5 +9,6 @@
  * Troque "{}" pelo nome dado a variável
  *
  */
+var naodefinida;
+export default naodefinida;
 
-export default {};

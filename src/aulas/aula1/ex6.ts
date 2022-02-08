@@ -6,4 +6,5 @@
  * Troque "{}" pelo nome dado a função
  */
 
-export default {};
+function soma(a:number,b:number){return a+b};
+export default soma ;

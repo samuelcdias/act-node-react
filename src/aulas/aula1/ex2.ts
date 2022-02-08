@@ -9,5 +9,6 @@
  * Troque "{}" pelo nome dado a variável
  *
  */
+let teste = false;
+export default teste;
 
-export default {};
