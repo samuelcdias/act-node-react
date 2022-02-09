@@ -28,6 +28,7 @@
     "*.{js, ts,css,md}": "prettier --write",
     "*.{js,ts}": [
       "eslint --cache --fix",
+      "jest --bail --findRelatedTests",
       "npm run test:staged"
     ]
   },

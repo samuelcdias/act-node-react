@@ -10,4 +10,6 @@
  *
  */
 
-export default {};
+const und = undefined;
+
+export default und;

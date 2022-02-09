@@ -9,6 +9,12 @@
  * Troque "{}" pelo nome dado a função
  */
 
-// code here
+function Triangulo(a:number, b:number, c:number): boolean {
+  const TrianguloA = Math.abs(b - c) < a && a < b + c;
+  const TrianguloB = Math.abs(a - c) < b && b < a + c;
+  const TrianguloC = Math.abs(a - b) < c && c < a + b;
 
-export default {};
+  return (TrianguloA && TrianguloB && TrianguloC);
+}
+
+export default Triangulo;
