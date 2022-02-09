@@ -6,4 +6,8 @@
  * Troque "{}" pelo nome dado a função
  */
 
-export default {};
+function f(x: number, y:number): number {
+  return Number(x) + Number(y);
+}
+
+export default f;

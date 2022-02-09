@@ -9,5 +9,6 @@
  * Troque "{}" pelo nome dado a variável
  *
  */
+const Status = false;
 
-export default {};
+export default Status;

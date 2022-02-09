@@ -10,4 +10,6 @@
  *
  */
 
-export default {};
+const Nome = "Marcos Matte";
+
+export default Nome;
