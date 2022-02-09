@@ -7,5 +7,8 @@
  */
 
 // code here
+function verificararray(vetor:string[]) {
+  return vetor.indexOf("teste") !== -1;
+}
 
-export default {};
+export default verificararray;
