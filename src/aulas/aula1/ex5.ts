@@ -9,5 +9,5 @@
  * Troque "{}" pelo nome dado a variável
  *
  */
-var varnula = null ;
-export default {varnula};
+const varnula = null;
+export default varnula;

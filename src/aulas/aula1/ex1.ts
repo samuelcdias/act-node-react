@@ -9,5 +9,5 @@
  * Troque "{}" pelo nome dado a variável
  *
  */
-var marcio = new String('marcio');
+const marcio = "marcio";
 export default marcio;
