@@ -10,4 +10,6 @@
  *
  */
 
-export default {};
+const esther = "Esther Massarioli";
+
+export default esther;

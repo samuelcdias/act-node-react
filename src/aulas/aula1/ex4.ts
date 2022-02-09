@@ -10,4 +10,6 @@
  *
  */
 
-export default {};
+const indefinida = undefined;
+
+export default indefinida;

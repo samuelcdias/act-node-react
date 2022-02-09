@@ -10,4 +10,6 @@
  *
  */
 
-export default {};
+const idade = 31;
+
+export default idade;

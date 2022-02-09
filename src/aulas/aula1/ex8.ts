@@ -11,4 +11,12 @@
 
 // code here
 
-export default {};
+function triangulo(a: number, b: number, c: number) {
+  return (
+    Math.abs(a - b) < c && c < a + b
+    && Math.abs(a - c) < b && b < a + c
+    && Math.abs(b - c) < a && a < b + c
+  );
+}
+
+export default triangulo;

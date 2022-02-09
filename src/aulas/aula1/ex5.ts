@@ -10,4 +10,6 @@
  *
  */
 
-export default {};
+const nulo = null;
+
+export default nulo;

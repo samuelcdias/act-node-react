@@ -10,4 +10,6 @@
  *
  */
 
-export default {};
+const boo = false;
+
+export default boo;

@@ -4,6 +4,15 @@
  *
  * Faça a declaração da função.
  * Troque "{}" pelo nome dado a função
+ *
+ * da certo fazer return (x > y)
  */
 
-export default {};
+function maior(x: number, y: number): boolean {
+  if (x > y) {
+    return true;
+  }
+  return false;
+}
+
+export default maior;
